@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>mad world</title>
+  
+  <subtitle>她心是我梦</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http:www.zeicai.net/"/>
+  <updated>2019-05-16T15:59:10.903Z</updated>
+  <id>http:www.zeicai.net/</id>
+  
+  <author>
+    <name>Ww</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>偶尔记录low逼自己的成长</title>
+    <link href="http:www.zeicai.net/2019/05/16/hello-world/"/>
+    <id>http:www.zeicai.net/2019/05/16/hello-world/</id>
+    <published>2019-05-16T14:40:36.000Z</published>
+    <updated>2019-05-16T15:59:10.903Z</updated>
+    
+    <content type="html"><![CDATA[<p>你一笑，真像好天气。 </p><a id="more"></a><p>不知道该写些什么，这个lowlow的博客(贼多要改的)也不知道为什么就搭起来了，或许是想记录些什么，但是又发现生活是那么的平淡无奇，也不知道是我这个人很是无趣还是生活就是这样，多半是因为我无趣吧。这个lowlow的网站我会偶尔更新一些技术文章，或者搬砖一些有趣的文章。</p><p>在这里，与各位再共同勉励一次，我们要做聪明的人，做有智慧的人有慈爱又肯诚实对人对己的勇者。就算天大的事情来了，也不逃避它，心平气和地为自己争取最合理的解决之道，不可以做一个弱者，凡是不顺心便跌倒的人是要被社会淘汰的，做一个有弹性的人，当是我们一生追求的目标。 ——三毛《亲爱的三毛》</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;你一笑，真像好天气。 &lt;/p&gt;
+    
+    </summary>
+    
+      <category term="菜菜的我" scheme="http:www.zeicai.net/categories/%E8%8F%9C%E8%8F%9C%E7%9A%84%E6%88%91/"/>
+    
+    
+      <category term="菜" scheme="http:www.zeicai.net/tags/%E8%8F%9C/"/>
+    
+      <category term="low" scheme="http:www.zeicai.net/tags/low/"/>
+    
+  </entry>
+  
+</feed>
